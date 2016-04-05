@@ -6,5 +6,6 @@
 	"license": "For licensing, see LICENSE.md or http://ckeditor.com/license.",
 	"homepage": "http://ckeditor.com",
 	"main":"ckeditor.js",
-	"ignore":[]
+	"ignore":[],
+	"version": "2016.4.5"
 }
