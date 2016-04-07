@@ -7,5 +7,5 @@
 	"homepage": "http://ckeditor.com",
 	"main":"ckeditor.js",
 	"ignore":[],
-	"version": "2016.4.5"
+	"version": "2016.4.7"
 }

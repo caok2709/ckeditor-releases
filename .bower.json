@@ -18,10 +18,10 @@
   "_release": "4b0678ff6f",
   "_resolution": {
     "type": "branch",
-    "branch": "ckeditor_4_5_5_office2013",
+    "branch": "ckeditor_4_5_8_office2013",
     "commit": "4b0678ff6f9e643f8361727f3a1325e4928b3d51"
   },
   "_source": "https://github.com/caok2709/ckeditor-releases.git",
-  "_target": "ckeditor_4_5_5_office2013",
+  "_target": "ckeditor_4_5_8_office2013",
   "_originalSource": "https://github.com/caok2709/ckeditor-releases.git"
 }
